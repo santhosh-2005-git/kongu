@@ -1,0 +1,15 @@
+farmers_management_system/
+│
+├── backend/
+│   ├── db_config.py
+│   ├── db_operations.py
+│
+├── frontend/
+│   ├── main.py
+│   ├── assets/
+│       ├── logo.jpg
+│       ├── crop_image.jpg
+│       ├── search_bg.jpg
+│
+├── README.md
+└── requirements.txt
